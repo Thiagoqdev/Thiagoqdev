@@ -1,6 +1,6 @@
 <!-- README.md para o GitHub Profile -->
 
-<h1 align="center"> Oiiiii! </h1>
+<h1 align="center"> Olá, sou Thiago! </h1>
 
 <div align="center">
 <a href="https://github.com/Thiagoqdev">
@@ -10,23 +10,21 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Graduação em Engenharia de Software (Previsão de conclusão: 10/2026) | Pós-Graduação em Desenvolvimento Web (2024) | Bacharel em Direito (2019)
-- 💻 **Atualmente**: Focado em **Desenvolvimento Full Stack**
-- 📊 **Habilidades**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Java, .NET, Spring Boot, banco de dados SQL e NoSQL
-- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)
+Desenvolvedor apaixonado por tecnologia e inovação, com quase 3 anos de experiência em desenvolvimento de software. 
+Tenho um sólido conhecimento em tecnologias front-end, como **JavaScript**, **TypeScript**, **Bootstrap**, **React** com **Next.js** e **Angular**. 
+Possuo experiência em back-end com **Java**, **Spring Boot** e bancos de dados **SQL** e **NoSQL**. 
+Atualmente, estou cursando Engenharia de Software, o que tem me fornecido uma base robusta em desenvolvimento, 
+aliada à prática de metodologias ágeis como **Scrum** e **Kanban**.
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005E7C?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=nosql&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ## 📂 Projetos Destacados
@@ -36,7 +34,7 @@
 - 🔹 [Site de Viagens - Aplicação Full Stack](https://github.com/Thiagoqdev/SiteDeViagens)
 - 🔹 [Comuni Tech Shop - Desenvolvimento de site](https://github.com/Thiagoqdev/ComuniTechShop)
 
-## 📫 Entre em Contato
+## 📫 Vamos nos conectar!
 <p>
   <a href="https://www.linkedin.com/in/thiagovqueiroz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
