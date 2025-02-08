@@ -11,10 +11,23 @@
 ## 🚀 Sobre mim
 
 Desenvolvedor apaixonado por tecnologia e inovação, com quase 3 anos de experiência em desenvolvimento de software. 
-Tenho um sólido conhecimento em tecnologias front-end, como **JavaScript**, **TypeScript**, **Bootstrap**, **React** com **Next.js** e **Angular**. 
-Possuo experiência em back-end com **Java**, **Spring Boot** e bancos de dados **SQL** e **NoSQL**. 
+Tenho um sólido conhecimento em tecnologias front-end, como **JavaScript**, **TypeScript**, **React** com **Next.js** e **Angular**. 
+Possuo experiência em back-end com **Java**, **Spring Boot** e bancos de dados **SQL** e **MongoDB**. 
 Atualmente, estou cursando Engenharia de Software, o que tem me fornecido uma base robusta em desenvolvimento, 
 aliada à prática de metodologias ágeis como **Scrum** e **Kanban**.
+
+## 🎓 Formação e Experiência
+
+Sou um profissional motivado e sempre em busca do aprendizado constante. Atualmente, estou cursando Engenharia de Software, 
+onde adquiri conhecimentos práticos que aplico em projetos reais. Além disso, participei de programas renomados como **Oracle Next Education** e **Recode Pro**, onde trabalhei em diversos projetos desafiadores, desenvolvendo minhas habilidades em tecnologias modernas. 
+
+Minha experiência inclui:
+- Desenvolvimento de soluções eficientes e escaláveis com **Java** e **Spring Boot**,
+- Criação de interfaces dinâmicas e responsivas utilizando **React** e **Next.js**,
+- Implementação de estratégias de integração de dados utilizando **MySQL** e **MongoDB**,
+- Colaboração em equipes multidisciplinares para entregar produtos de alta qualidade.
+
+Meu compromisso com a excelência e a qualidade me diferencia, sempre buscando maneiras de inovar e proporcionar resultados excepcionais.
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
@@ -22,9 +35,11 @@ aliada à prática de metodologias ágeis como **Scrum** e **Kanban**.
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=nosql&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005E7C?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
 ## 📂 Projetos Destacados
