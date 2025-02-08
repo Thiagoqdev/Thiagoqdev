@@ -19,7 +19,7 @@ aliada à prática de metodologias ágeis como **Scrum** e **Kanban**.
 ## 🎓 Formação e Experiência
 
 Sou um profissional motivado e sempre em busca do aprendizado constante. Atualmente, estou cursando Engenharia de Software, 
-onde adquiri conhecimentos práticos que aplico em projetos reais. Além disso, participei de programas renomados como **Oracle Next Education** e **Recode Pro**, onde trabalhei em diversos projetos desafiadores, desenvolvendo minhas habilidades em tecnologias modernas. 
+onde adquiri conhecimentos práticos que aplico em projetos reais. Além disso, participei de programas renomados como **Santander Coders**, **Oracle Next Education** e **Recode Pro**, onde trabalhei em diversos projetos desafiadores, desenvolvendo minhas habilidades em tecnologias modernas. 
 
 Minha experiência inclui:
 - Desenvolvimento de soluções eficientes e escaláveis com **Java** e **Spring Boot**,
