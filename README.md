@@ -12,17 +12,17 @@
 
 Desenvolvedor apaixonado por tecnologia e inovação, com quase 3 anos de experiência em desenvolvimento de software. 
 Tenho um sólido conhecimento em tecnologias front-end, como **JavaScript**, **TypeScript**, **React** com **Next.js** e **Angular**. 
-Possuo experiência em back-end com **Java**, **Spring Boot** e bancos de dados **SQL** e **MongoDB**. 
+Possuo experiência em back-end com **Java**, **Spring Boot** **Python** e realizei projetos em C# e bancos de dados **SQL** e **MongoDB**. 
 Atualmente, estou cursando Engenharia de Software, o que tem me fornecido uma base robusta em desenvolvimento, 
 aliada à prática de metodologias ágeis como **Scrum** e **Kanban**.
 
 ## 🎓 Formação e Experiência
 
-Sou um profissional motivado e sempre em busca do aprendizado constante. Atualmente, estou cursando Engenharia de Software, 
-onde adquiri conhecimentos práticos que aplico em projetos reais. Além disso, participei de programas renomados como **Santander Coders**, **Oracle Next Education** e **Recode Pro**, onde trabalhei em diversos projetos desafiadores, desenvolvendo minhas habilidades em tecnologias modernas. 
+Sou um profissional motivado e sempre em busca do aprendizado constante. Atualmente, estou cursando 3 ano de Engenharia de Software, 
+onde adquiri conhecimentos práticos que aplico em projetos reais e paralelo a isso conclui uma pós graduaçao em programação Web e agora estou em uma especialização em uma pós graduação de IA e Machine learning. Além disso, participei de programas renomados como **Santander Coders**, **Oracle Next Education** e **Recode Pro**, onde trabalhei em diversos projetos desafiadores, desenvolvendo minhas habilidades em tecnologias modernas. 
 
 Minha experiência inclui:
-- Desenvolvimento de soluções eficientes e escaláveis com **Java** e **Spring Boot**,
+- Desenvolvimento de soluções eficientes e escaláveis com **Java** e **Spring Boot** **C#**,
 - Criação de interfaces dinâmicas e responsivas utilizando **React** e **Next.js**,
 - Implementação de estratégias de integração de dados utilizando **MySQL** e **MongoDB**,
 - Colaboração em equipes multidisciplinares para entregar produtos de alta qualidade.
