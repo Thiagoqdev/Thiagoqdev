@@ -23,7 +23,6 @@
 ```yaml
 nome: Thiago Queiroz
 localização: Campina Grande, PB - Brasil
-papel_atual: Desenvolvedor de Software @ PHOENIXX (Canadá, Remoto)
 foco: Back-end, IA Generativa, Arquitetura Cloud
 formação: Engenharia de Software | Especialização em IA & Machine Learning
 ```
